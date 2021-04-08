@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E8593F47-C7D1-4E2D-BFD2-5FA342FC60C8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D047746-534D-444F-83ED-747A43E0FEF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyApp/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6D047746-534D-444F-83ED-747A43E0FEF1 - 4315d7208746c2e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyApp.ViewController.usernameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elena/Documents/GB/Interface_Part1/Lesson_1/WeatherApp/MyApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6D047746-534D-444F-83ED-747A43E0FEF1 - e6ce0647a80e68f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyApp.ViewController.usernameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elena/Documents/GB/Interface_Part1/Lesson_1/WeatherApp/MyApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "6D047746-534D-444F-83ED-747A43E0FEF1 - d0e40d6cda9eddb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyApp.ViewController.usernameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elena/Documents/GB/Interface_Part1/Lesson_1/WeatherApp/MyApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "6D047746-534D-444F-83ED-747A43E0FEF1 - b7ba50f7c8c747d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyApp.ViewController.usernameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elena/Documents/GB/Interface_Part1/Lesson_1/WeatherApp/MyApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6D047746-534D-444F-83ED-747A43E0FEF1 - 5be339e2a63ac6c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MyApp.ViewController"
+                  moduleName = "MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elena/Documents/GB/Interface_Part1/Lesson_1/WeatherApp/MyApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "6D047746-534D-444F-83ED-747A43E0FEF1 - f08c51bb8eefcd7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyApp.ViewController&gt;"
+                  moduleName = "MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elena/Documents/GB/Interface_Part1/Lesson_1/WeatherApp/MyApp/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "221">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6E122EF-7217-4324-A85B-58C247A563AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyApp/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAE5F60F-070E-4527-BFD2-26C60837BB5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyApp/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CE75F50-CE24-4B4D-BE87-DA1D9FE16590"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyApp/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
